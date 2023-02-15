@@ -1,0 +1,13 @@
+github : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/10%20Feb%202023/assets/github.png
+
+hambrger : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/10%20Feb%202023/assets/hambrger.png
+
+image : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/10%20Feb%202023/assets/image.png
+
+linkedin : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/10%20Feb%202023/assets/linkedin.png
+
+outlook : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/10%20Feb%202023/assets/outlook.png
+
+pcimage : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/10%20Feb%202023/assets/pc-image.png
+
+waving hand : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/10%20Feb%202023/assets/waving-hand.png
